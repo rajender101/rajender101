@@ -1,0 +1,1 @@
+Q1)Write a Java Program to Create a new text file and read the input from the user Name, Phone No, Bank name , Account No, Type of Account ,Amount for FD, Duration for FD , Calculate the amount and display the final amount. Save the input in the text file and also store the FD imformation.
