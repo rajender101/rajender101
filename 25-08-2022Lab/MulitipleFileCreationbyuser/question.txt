@@ -1,0 +1,1 @@
+Q2) Write a program to accept name from the user accordingly create the file, the no of file creation will bw depend upon thw user.Accept the data from the user and store the data from the file which is selected by the user, and also perform the delete opetaion using file.
