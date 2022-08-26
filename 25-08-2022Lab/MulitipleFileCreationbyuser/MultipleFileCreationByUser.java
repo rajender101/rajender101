@@ -43,10 +43,10 @@ public class MultipleFileCreationByUser {
 	public void writeInFile() throws IOException
 	{
 		System.out.println("enter the file name you want to write in");
-		String filename= sc.next();
+		String filename= sc.nextLine();
 		FileWriter writefile = new FileWriter(filename);
 		System.out.println("enter information you want to store in the file "+filename);
-		String inputinfo=sc.next();
+		String inputinfo=sc.nextLine();
 		writefile.append(inputinfo);
 		writefile.close();
 	}
