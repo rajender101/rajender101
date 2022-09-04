@@ -1,0 +1,1 @@
+Ques 3. Write a program to accept N User details Name, No , Address, email , UserID , Password .Store user ID and password in the file .Accept a userID from the user and delete that record from the file.
