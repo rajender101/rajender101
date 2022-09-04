@@ -1,0 +1,1 @@
+Ques 2. Write a program to find second minimum and second maximum number from the array .
