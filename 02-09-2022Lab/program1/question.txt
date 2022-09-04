@@ -1,0 +1,1 @@
+Ques 1. Write a program to create the chained exception where one exception describes the cause of another exception.
