@@ -1,0 +1,1 @@
+Q2)Write a program to accept product name, ID, Price . Arrange the data in Descending order and display the output. (Using Linked List)
