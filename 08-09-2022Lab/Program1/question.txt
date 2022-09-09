@@ -1,1 +1,2 @@
 
+Q1)write a program to accept name, Email, Phone Number, Percentage from the user and store the data using arraylist.Accept name from the user and remove all the data from the list and display the output. and also perform the searching operation with the help of the name.
