@@ -1,0 +1,1 @@
+Ques 3. a.WAP to merge two arrays and remove duplicated items. b.WAP to add element to start of array. c.WAP to check if an array contains a sepecified value.
