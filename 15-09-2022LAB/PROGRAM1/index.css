@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.slide-container{
+    position: relative;
+    width: 100%;
+}
+.slide img{
+    width: 100vw;
+    height: 100vh;
+}
+.arrow{
+    cursor: pointer;
+    position: absolute;
+    top: 300px;
+    color: red;
+    
+    height: 50px;
+    width: 50px;
+}
+.prev{
+left: 10px;
+}
+.next {
+    right: 10px;
+}
+.caption{
+    position: absolute;
+    bottom: 300px;
+    left: 50%;
+    text-align: center;
+    color: red;
+    font-size: 50px;
+    transform: translateX(-50%);
+}
+.slide{
+    display: none;
+}
